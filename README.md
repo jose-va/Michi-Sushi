@@ -1,4 +1,4 @@
-# Michi Sushi Bar 🍣
+# Michi Sushi Café & Bar 🍣
 
 ### Descripción
 Michi Sushi Café & Bar es una plataforma diseñada para digitalizar la experiencia del cliente y la gestión interna de un bar de sushi. Los usuarios pueden explorar la carta, gestionar sus pedidos a domicilio y realizar reservas de forma sencilla. 
