@@ -22,4 +22,4 @@ El repartidor tendrá informacíon necesaria para la entrega del pedido, así co
 * **Backend:** Laravel, MySQL8
 
 ### Estado del proyecto
-"En fase de análisis y diseño"
+En fase de análisis y diseño.
