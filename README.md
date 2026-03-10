@@ -4,9 +4,9 @@
 Michi Sushi Café & Bar es una plataforma diseñada para digitalizar la experiencia del cliente y la gestión interna de un bar de sushi. Los usuarios pueden explorar la carta, gestionar sus pedidos a domicilio y realizar reservas de forma sencilla. 
 
 El sistema incluye herramientas específicas para administradores y repartidores, optimizando la comunicación y la logística de entrega.
-Los trabajores podrán indicar cuando hayan completado algún pedidi, para asignarlo a unos de los repartidores de forma rápida y eficaz. 
+Los trabajadores podrán indicar cuando hayan completado algún pedido para asignarlo a unos de los repartidores de forma rápida y eficaz. 
 
-El repartidor tendrá informacíon necesaria para la entrega del pedido, así como un chat personal con el cliente. También se posibilitará el informe de incidencias durante el reparto.
+El repartidor tendrá la informacíon necesaria para la entrega del pedido, así como un chat personal con el cliente. También se posibilitará el informe de incidencias sucedidas durante el reparto.
 
 ### Objetivos
 * **General:** Digitalizar el sistema de reservas y la gestión de pedidos a domicilio del restaurante.
